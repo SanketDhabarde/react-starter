@@ -1,0 +1,19 @@
+{
+  "name": "react-starter",
+  "version": "1.0.0",
+  "description": "react starter with webpack and babel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SanketDhabarde/react-starter.git"
+  },
+  "author": "Sanket Dhabarde",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SanketDhabarde/react-starter/issues"
+  },
+  "homepage": "https://github.com/SanketDhabarde/react-starter#readme"
+}
